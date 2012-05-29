@@ -1,0 +1,1 @@
+var hello = "Hi man";
